@@ -41,7 +41,7 @@ import img41 from "/assets/img-42.jpg";
 import img42 from "/assets/img-43.jpg";
 
 import { useState } from "react";
-import Card from "../cards/card";
+import Card from "../cards/Card";
 
 export default function Photographies() {
   const categories = {
